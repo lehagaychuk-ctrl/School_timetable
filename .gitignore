@@ -1,0 +1,9 @@
+.vendor/
+.venv/
+__pycache__/
+data/
+test-output/
+*.log
+exports/
+design-preview/
+/School_timetable/
